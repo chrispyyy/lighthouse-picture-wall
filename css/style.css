@@ -18,4 +18,20 @@ body {
 #team-members .member div.name {
   text-align: center; }
 
+body h1 {
+  color: #FF0000; }
+
+p {
+  font-family: "Times New Roman", Times, serif; }
+
+#team-members .member img {
+  width: 200px;
+  height: 200px;
+  border: 1em solid #021a40;
+  border-color: #89F1F1; }
+  #team-members .member img:hover {
+    border-color: #ED14C1;
+    -webkit-transform: rotate(7deg);
+    background-image: url("images/codycloseup.png"); }
+
 /*# sourceMappingURL=style.css.map */
